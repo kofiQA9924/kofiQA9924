@@ -9,7 +9,6 @@ Skills: Java / Selenium / TestNG / REST Assured / Cucumber , etc.
 - 🌱 I’m currently learning Software Testing & Automation 
 - 👯 I’m looking to collaborate on new Software Testing Projects. 
 - 🤔 I’m looking for help with new Languages and Tools related to this subject. 
-- 📫 How to reach me: Email & LinkedIn 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kofiQA9924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kofi-tuffour-ossei-b48b044b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](ruth4d@yahoo.co.uk)  
