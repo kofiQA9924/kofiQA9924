@@ -5,6 +5,19 @@ I'm Kofi and am passionate about Software Automation Engineering. I enjoy learni
 
 Skills: Java / Selenium / TestNG / REST Assured / Cucumber / Appium , etc.
 
+
+## Languages and Tools  
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+
+
+
+
+
+
+
+
+
 - 🔭 I’m currently working on experimenting new Software Testing technics. 
 - 🌱 I’m currently learning Software Testing & Automation 
 - 👯 I’m looking to collaborate on new Software Testing Projects. 
