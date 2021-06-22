@@ -1,15 +1,14 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
-### Hi there 👋, 
-I'm Kofi Tuffour Ossei
-#### Software Testing & Automation
-I'm Kofi and am passionate about Software Automation Engineering. I enjoy learning new languages, tools and frameworks related to this subject. I believe the boundaries of Software Automation could be extended and optimized.
+<h1 align="center">Hi 👋, I'm Kofi Tuffour Ossei</h1> 
+I'm passionate about Software Quality Assurance Automation Engineering / Testing. I enjoy learning new languages, tools and frameworks related to this subject. I believe the boundaries of Software Testing could be extended and optimized.
 
-Skills: Mobile and Web Application
+## Specialty 
+Mobile and Web Applications
 
 
 ## Languages and Tools  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/><img src="https://github.com/gilbarbara/logos/blob/master/logos/appium.svg" alt="appium" width="50" height="50"/><img src="https://github.com/gilbarbara/logos/blob/master/logos/cucumber.svg" alt="cucumber" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/><img src="https://github.com/gilbarbara/logos/blob/master/logos/maven.svg" alt="maven" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/><img src="https://github.com/gilbarbara/logos/blob/master/logos/appium.svg" alt="appium" width="50" height="50"/><img src="https://github.com/gilbarbara/logos/blob/master/logos/cucumber.svg" alt="cucumber" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/> <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/><img src="https://github.com/gilbarbara/logos/blob/master/logos/maven.svg" alt="maven" width="50" height="50"/>
 
 
 
