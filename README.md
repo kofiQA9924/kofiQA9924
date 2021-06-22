@@ -3,7 +3,7 @@ I'm Kofi Tuffour Ossei
 #### Software Testing & Automation
 I'm Kofi and am passionate about Software Automation Engineering. I enjoy learning new languages, tools and frameworks related to this subject. I believe the boundaries of Software Automation could be extended and optimized.
 
-Skills: Java / Selenium / TestNG / REST Assured / Cucumber /Appium , etc.
+Skills: Java / Selenium / TestNG / REST Assured / Cucumber / Appium , etc.
 
 - 🔭 I’m currently working on experimenting new Software Testing technics. 
 - 🌱 I’m currently learning Software Testing & Automation 
