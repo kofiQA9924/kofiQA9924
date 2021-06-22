@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="hello" /> </p>
 <h1 align="center">Hi 👋, I'm Kofi Tuffour Ossei</h1> 
 I'm passionate about Software Quality Assurance Automation Engineering / Testing. I enjoy learning new languages, tools and frameworks related to this subject. I believe the boundaries of Software Testing could be extended and optimized.
 
