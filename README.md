@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @kofiQA9924
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, 
+I'm Kofi Tuffour Ossei
+#### Software Testing & Automation
+I'm Kofi and am passionate about Software Automation Engineering. I enjoy learning new languages, tools and frameworks related to this subject. I believe the boundaries of Software Automation could be extended and optimized.
 
-<!---
-kofiQA9924/kofiQA9924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Languages and Tools  
+Skills: Java / Selenium / TestNG / REST Assured / Cucumber , etc.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/TestNG/TestNG-original-wordmark.svg" alt="TestNG" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySql" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+- 🔭 I’m currently working on experimenting new Software Testing technics. 
+- 🌱 I’m currently learning Software Testing & Automation 
+- 👯 I’m looking to collaborate on new Software Testing Projects. 
+- 🤔 I’m looking for help with new Languages and Tools related to this subject. 
+- 📫 How to reach me: Email & LinkedIn 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kofiQA9924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kofi-tuffour-ossei-b48b044b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](ruth4d@yahoo.co.uk)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kofiQA9924)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kofiQA9924&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/kofiQA9924)  
